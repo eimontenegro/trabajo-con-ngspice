@@ -1,1 +1,3 @@
 # trabajo-con-ngspice
+
+Kkndnmw
